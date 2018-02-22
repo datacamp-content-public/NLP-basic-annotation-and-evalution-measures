@@ -1,16 +1,18 @@
 ---
-title: Template Chapter 1
-description: This is a template chapter.
----
+title: Basic stats. plots and contingecy tables
+description: >-
+  This is a template chapter.
 
-## Ex 1.1
+
+---
+## Average, Median and Standard Deviation
 
 ```yaml
 type: NormalExercise
 lang: r
 xp: 100
 skills: 1
-key: d02f4a3a69
+key: f9f638e58c
 ```
 
 Do some data science.
@@ -21,26 +23,67 @@ Do some data science.
 `@hint`
 
 
-`@pre_exercise_code`
 
-```{r}
 
+
+
+
+
+
+
+
+---
+## Plots
+
+```yaml
+type: NormalExercise
+
+xp: 
+
+key: 564de8e45c
 ```
 
-`@sample_code`
 
-```{r}
 
+`@instructions`
+
+
+`@hint`
+
+
+
+
+
+
+
+
+
+
+
+---
+## Contingency tables
+
+```yaml
+type: NormalExercise
+
+xp: 
+
+key: 1e79780965
 ```
 
-`@solution`
 
-```{r}
 
-```
+`@instructions`
 
-`@sct`
 
-```{r}
+`@hint`
 
-```
+
+
+
+
+
+
+
+
+
